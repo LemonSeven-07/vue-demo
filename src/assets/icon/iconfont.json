@@ -1,0 +1,16 @@
+{
+  "id": "2776595",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6028338",
+      "name": "案例",
+      "font_class": "anli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
